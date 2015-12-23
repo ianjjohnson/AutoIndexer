@@ -1,0 +1,49 @@
+<1>
+Apple Mango Banana Taco [waffle iron] Chicken Baller Muffin Taco
+<2>
+[Waffle iron] Guava Coconut Grape Strawberry Orange Truck
+<3>
+Apple Pineapple Watermelon [waffle iron] Chicken
+<2>
+Pineapple Truck Zebra Billiards
+<5>
+Wombat Chicken Turtle
+<7>
+Elephant
+<8>
+Apple
+[40CHARWORD 123456789 123456789 123456789]
+[Waffle iron]
+<9>
+Apple
+<10>
+Apple
+<10>
+Apple
+<2>
+[2-3-4 Tree] Taco Bell Apple Apple [Waffle iron] Guava [WaFfLe IrOn]]
+<11>
+Apple Apple Apple
+<12>
+Apple
+<13>
+Apple
+<4>
+Apple
+<2>
+Apple
+<101>
+Apple Apple
+<25>
+Hurricane [Not a party]
+<1234>
+Apple [40CHARWORD 123456789 123456789 123456789]
+<1235>
+Apple [40CHARWORD 123456789 123456789 123456789]
+<1238>
+Apple [40CHARWORD 123456789 123456789 123456789] Watermelon
+<103>
+Mango [40CHARWORD 123456789 123456789 123456789] [Chocolate Milk]
+<12345>
+Apple [40CHARWORD 123456789 123456789 123456789] [Taco Bell] Orange
+<-1>
